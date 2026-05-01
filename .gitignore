@@ -1,0 +1,46 @@
+# ========================
+# Backend - Spring Boot
+# ========================
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/*.class
+backend/*.log
+backend/.env
+
+# ========================
+# Frontend - Angular
+# ========================
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.env
+
+# ========================
+# IDEs e editores
+# ========================
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+
+# ========================
+# Sistema operacional
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Logs e temporários
+# ========================
+*.log
+*.tmp
+*.bak
+npm-debug.log*
+yarn-error.log*
